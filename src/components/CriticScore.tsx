@@ -1,5 +1,4 @@
 import { Badge } from "@chakra-ui/react";
-import { px } from "framer-motion";
 
 interface Props {
   score: number;
